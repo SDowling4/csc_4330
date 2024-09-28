@@ -5,5 +5,10 @@ public class github {
         return i + j;
     }
 
-
+public boolean isGreaterThan (int number, int NeedsToGreaterThan ) {
+        if(number > NeedsToGreaterThan) {
+            return true;
+        }
+        return true;
+}
 }
