@@ -11,4 +11,6 @@ public boolean isGreaterThan (int number, int NeedsToGreaterThan ) {
         }
         return true;
 }
+
+public int Squaring(int i) {return i * i;}
 }
